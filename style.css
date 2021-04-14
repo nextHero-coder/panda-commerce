@@ -18,3 +18,37 @@
     border: none;
     cursor: pointer;
 }
+.cat1, .cat2 ,.cat3{
+padding: 0px 10px;
+} 
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: purple;
+}
+.cat3{
+    background-color: blue;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border-top: none !important;
+    background-color: white !important;
+}
+#contact{
+    height: 200px;
+    padding: 20px;
+    
+}
+#contact h6{
+    color: gray;
+}
